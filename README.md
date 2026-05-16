@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Video Walkthrough](walkthrough.mp4)
+[Video Walkthrough](assets/walkthrough.mp4)
 
 Video created with Windows screen recorder.
 
